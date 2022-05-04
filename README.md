@@ -9,3 +9,7 @@ UI
 Includes 2 text fields, one for title and another for description of note to be added. Followed by a save button.
 Save button saves the added note in the scrollable list, which is placed below the button.
 The note saved, can be popped out of the list by a simple tap.
+
+
+https://user-images.githubusercontent.com/82358330/166686842-791226fe-510d-4a70-9aac-8b981fb25aaa.mp4
+
